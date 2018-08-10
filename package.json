@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doyita-Mitra/Nodejs-Weather-App.git"
+  },
+  "author": "Doyita Mitra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doyita-Mitra/Nodejs-Weather-App/issues"
+  },
+  "homepage": "https://github.com/Doyita-Mitra/Nodejs-Weather-App#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
